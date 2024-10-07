@@ -12,7 +12,3 @@ while True:
  
 
 
-# for extenso in range(0, len(numero)):
-#     print(f'Número {numero[extenso]}')
-
-
